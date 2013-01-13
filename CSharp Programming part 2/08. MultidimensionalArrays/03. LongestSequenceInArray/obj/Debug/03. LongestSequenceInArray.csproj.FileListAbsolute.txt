@@ -1,0 +1,1 @@
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\08. MultidimensionalArrays\03. LongestSequenceInArray\bin\Debug\_03.LongestSequenceInArray.exe.config

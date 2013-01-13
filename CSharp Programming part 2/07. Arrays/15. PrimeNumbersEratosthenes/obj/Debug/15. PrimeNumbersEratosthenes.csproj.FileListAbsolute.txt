@@ -1,0 +1,9 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\15. PrimeNumbersEratosthenes\bin\Debug\_15.PrimeNumbersEratosthenes.exe.config
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\15. PrimeNumbersEratosthenes\bin\Debug\_15.PrimeNumbersEratosthenes.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\15. PrimeNumbersEratosthenes\bin\Debug\_15.PrimeNumbersEratosthenes.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\15. PrimeNumbersEratosthenes\obj\Debug\15. PrimeNumbersEratosthenes.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\15. PrimeNumbersEratosthenes\obj\Debug\_15.PrimeNumbersEratosthenes.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\15. PrimeNumbersEratosthenes\obj\Debug\_15.PrimeNumbersEratosthenes.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\15. PrimeNumbersEratosthenes\bin\Debug\_15.PrimeNumbersEratosthenes.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\15. PrimeNumbersEratosthenes\obj\Debug\_15.PrimeNumbersEratosthenes.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\15. PrimeNumbersEratosthenes\obj\Debug\_15.PrimeNumbersEratosthenes.pdb

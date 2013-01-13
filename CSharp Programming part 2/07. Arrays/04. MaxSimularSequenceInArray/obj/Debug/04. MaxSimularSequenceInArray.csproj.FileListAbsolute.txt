@@ -1,0 +1,9 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\04. MaxSimularSequenceInArray\bin\Debug\_04.MaxSimularSequenceInArray.exe.config
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\04. MaxSimularSequenceInArray\bin\Debug\_04.MaxSimularSequenceInArray.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\04. MaxSimularSequenceInArray\bin\Debug\_04.MaxSimularSequenceInArray.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\04. MaxSimularSequenceInArray\obj\Debug\04. MaxSimularSequenceInArray.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\04. MaxSimularSequenceInArray\obj\Debug\_04.MaxSimularSequenceInArray.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\04. MaxSimularSequenceInArray\obj\Debug\_04.MaxSimularSequenceInArray.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\04. MaxSimularSequenceInArray\bin\Debug\_04.MaxSimularSequenceInArray.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\04. MaxSimularSequenceInArray\obj\Debug\_04.MaxSimularSequenceInArray.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\04. MaxSimularSequenceInArray\obj\Debug\_04.MaxSimularSequenceInArray.pdb

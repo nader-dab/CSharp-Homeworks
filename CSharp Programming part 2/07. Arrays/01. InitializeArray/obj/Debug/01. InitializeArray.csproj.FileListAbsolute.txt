@@ -1,0 +1,9 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\01. InitializeArray\bin\Debug\_01.InitializeArray.exe.config
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\01. InitializeArray\bin\Debug\_01.InitializeArray.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\01. InitializeArray\bin\Debug\_01.InitializeArray.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\01. InitializeArray\obj\Debug\01. InitializeArray.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\01. InitializeArray\obj\Debug\_01.InitializeArray.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\01. InitializeArray\obj\Debug\_01.InitializeArray.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\01. InitializeArray\bin\Debug\_01.InitializeArray.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\01. InitializeArray\obj\Debug\_01.InitializeArray.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\01. InitializeArray\obj\Debug\_01.InitializeArray.pdb

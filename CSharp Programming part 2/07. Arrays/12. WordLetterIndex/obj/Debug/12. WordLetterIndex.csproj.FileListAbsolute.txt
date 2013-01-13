@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\12. WordLetterIndex\bin\Debug\_12.WordLetterIndex.exe.config
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\12. WordLetterIndex\bin\Debug\_12.WordLetterIndex.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\12. WordLetterIndex\bin\Debug\_12.WordLetterIndex.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\12. WordLetterIndex\obj\Debug\_12.WordLetterIndex.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\12. WordLetterIndex\obj\Debug\_12.WordLetterIndex.pdb

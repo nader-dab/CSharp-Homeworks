@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\11. IndexBinarySearch\bin\Debug\_11.IndexBinarySearch.exe.config
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\11. IndexBinarySearch\bin\Debug\_11.IndexBinarySearch.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\11. IndexBinarySearch\bin\Debug\_11.IndexBinarySearch.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\11. IndexBinarySearch\obj\Debug\11. IndexBinarySearch.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\11. IndexBinarySearch\obj\Debug\_11.IndexBinarySearch.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\11. IndexBinarySearch\obj\Debug\_11.IndexBinarySearch.pdb
