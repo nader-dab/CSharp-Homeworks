@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\02. DataTypes\11. PrintTriangle\bin\Debug\_11.PrintTriangle.exe.config
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\02. DataTypes\11. PrintTriangle\bin\Debug\_11.PrintTriangle.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\02. DataTypes\11. PrintTriangle\bin\Debug\_11.PrintTriangle.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\02. DataTypes\11. PrintTriangle\obj\Debug\_11.PrintTriangle.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\02. DataTypes\11. PrintTriangle\obj\Debug\_11.PrintTriangle.pdb

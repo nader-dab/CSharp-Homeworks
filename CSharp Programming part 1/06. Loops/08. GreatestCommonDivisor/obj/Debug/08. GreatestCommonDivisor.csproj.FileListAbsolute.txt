@@ -1,0 +1,1 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\06. Loops\08. GreatestCommonDivisor\bin\Debug\_08.GreatestCommonDivisor.exe.config

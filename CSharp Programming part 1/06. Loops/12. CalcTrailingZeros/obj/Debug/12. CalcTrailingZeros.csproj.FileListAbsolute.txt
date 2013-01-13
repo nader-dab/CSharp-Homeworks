@@ -1,0 +1,1 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\06. Loops\12. CalcTrailingZeros\bin\Debug\_12.CalcTrailingZeros.exe.config

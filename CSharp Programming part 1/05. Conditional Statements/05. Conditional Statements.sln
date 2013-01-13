@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. SwapIfGreaterNumber", "01. SwapIfGreaterNumber\01. SwapIfGreaterNumber.csproj", "{D28BF700-6AB4-4092-BBFD-C5AFCFE9FE66}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. ShowSignOfProduct", "02. ShowSignOfProduct\02. ShowSignOfProduct.csproj", "{2474CEEA-B7B9-4836-8A22-996E8DC5F383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. BiggestOfThreeNumbers", "03. BiggestOfThreeNumbers\03. BiggestOfThreeNumbers.csproj", "{1C88C45C-CD7C-41F0-8B68-2B2B102E2C70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. SortTreeNumbers", "04. SortTreeNumbers\04. SortTreeNumbers.csproj", "{B59425F2-41D9-4965-B1AF-892EB4AFAF7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. PrintNameOfDigit", "05. PrintNameOfDigit\05. PrintNameOfDigit.csproj", "{D1D2BEFA-0E60-4F58-9FDA-458922B2D624}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. QuadraticEquation", "06. QuadraticEquation\06. QuadraticEquation.csproj", "{05D88C41-031C-408B-9589-741AE7EAD7B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. BiggestOfFiveNumbers", "07. BiggestOfFiveNumbers\07. BiggestOfFiveNumbers.csproj", "{594A7388-5D34-4D73-8FF0-2E7BABDB5B56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. ChooseInputVariable", "08. ChooseInputVariable\08. ChooseInputVariable.csproj", "{7116FF30-F8BE-46A2-AE71-9B8EC2544F2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. NumberConvertor", "11. NumberConvertor\11. NumberConvertor.csproj", "{110B7441-6328-41E9-98F4-49CA67CD07D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. CheckIfSubsetSumIsZero", "09. CheckIfSubsetSumIsZero\09. CheckIfSubsetSumIsZero.csproj", "{C29F54DF-8CB1-426D-B6FF-D35108F72B3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. BonusDigit", "10. BonusDigit\10. BonusDigit.csproj", "{D358008E-F6F1-4CBE-9F16-1CA0888E65FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D28BF700-6AB4-4092-BBFD-C5AFCFE9FE66}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D28BF700-6AB4-4092-BBFD-C5AFCFE9FE66}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D28BF700-6AB4-4092-BBFD-C5AFCFE9FE66}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D28BF700-6AB4-4092-BBFD-C5AFCFE9FE66}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2474CEEA-B7B9-4836-8A22-996E8DC5F383}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2474CEEA-B7B9-4836-8A22-996E8DC5F383}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2474CEEA-B7B9-4836-8A22-996E8DC5F383}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2474CEEA-B7B9-4836-8A22-996E8DC5F383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C88C45C-CD7C-41F0-8B68-2B2B102E2C70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C88C45C-CD7C-41F0-8B68-2B2B102E2C70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C88C45C-CD7C-41F0-8B68-2B2B102E2C70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C88C45C-CD7C-41F0-8B68-2B2B102E2C70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B59425F2-41D9-4965-B1AF-892EB4AFAF7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B59425F2-41D9-4965-B1AF-892EB4AFAF7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B59425F2-41D9-4965-B1AF-892EB4AFAF7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B59425F2-41D9-4965-B1AF-892EB4AFAF7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1D2BEFA-0E60-4F58-9FDA-458922B2D624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1D2BEFA-0E60-4F58-9FDA-458922B2D624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1D2BEFA-0E60-4F58-9FDA-458922B2D624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1D2BEFA-0E60-4F58-9FDA-458922B2D624}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D88C41-031C-408B-9589-741AE7EAD7B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D88C41-031C-408B-9589-741AE7EAD7B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D88C41-031C-408B-9589-741AE7EAD7B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D88C41-031C-408B-9589-741AE7EAD7B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{594A7388-5D34-4D73-8FF0-2E7BABDB5B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{594A7388-5D34-4D73-8FF0-2E7BABDB5B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{594A7388-5D34-4D73-8FF0-2E7BABDB5B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{594A7388-5D34-4D73-8FF0-2E7BABDB5B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7116FF30-F8BE-46A2-AE71-9B8EC2544F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7116FF30-F8BE-46A2-AE71-9B8EC2544F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7116FF30-F8BE-46A2-AE71-9B8EC2544F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7116FF30-F8BE-46A2-AE71-9B8EC2544F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{110B7441-6328-41E9-98F4-49CA67CD07D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{110B7441-6328-41E9-98F4-49CA67CD07D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{110B7441-6328-41E9-98F4-49CA67CD07D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{110B7441-6328-41E9-98F4-49CA67CD07D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C29F54DF-8CB1-426D-B6FF-D35108F72B3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C29F54DF-8CB1-426D-B6FF-D35108F72B3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C29F54DF-8CB1-426D-B6FF-D35108F72B3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C29F54DF-8CB1-426D-B6FF-D35108F72B3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D358008E-F6F1-4CBE-9F16-1CA0888E65FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D358008E-F6F1-4CBE-9F16-1CA0888E65FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D358008E-F6F1-4CBE-9F16-1CA0888E65FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D358008E-F6F1-4CBE-9F16-1CA0888E65FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

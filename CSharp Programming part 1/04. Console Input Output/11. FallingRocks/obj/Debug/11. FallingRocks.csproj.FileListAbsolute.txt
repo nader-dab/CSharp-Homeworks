@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\04. Console Input Output\11. FallingRocks\bin\Debug\_11.FallingRocks.exe.config
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\04. Console Input Output\11. FallingRocks\bin\Debug\_11.FallingRocks.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\04. Console Input Output\11. FallingRocks\bin\Debug\_11.FallingRocks.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\04. Console Input Output\11. FallingRocks\obj\Debug\11. FallingRocks.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\04. Console Input Output\11. FallingRocks\obj\Debug\_11.FallingRocks.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\04. Console Input Output\11. FallingRocks\obj\Debug\_11.FallingRocks.pdb
