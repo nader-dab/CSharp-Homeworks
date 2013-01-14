@@ -9,29 +9,26 @@ class GenerateAllVariations
         int n = int.Parse(Console.ReadLine());
         Console.WriteLine("Enter K: ");
         int k = int.Parse(Console.ReadLine());
-        int[] myArray = new int[n];
+        int[] myArray = new int[k];
 
-        for (int i = 0; i < n; i++)
+        Variations(myArray, 0, n);
+    }
+
+    static void Variations(int[] array, int index, int limit)
+    {
+        if (index == array.Length)
         {
-            myArray[i] = i + 1;
+            PrintArray(array);
         }
-        int[] variation = new int[k];
-
-        for (int i = 0; i < variation.Length; i++)
+        else
         {
-            variation[i] = myArray[0];
-
-        }
-
-        while (true)
-        {
-            for (int i = 0; i < n; i++)
+            for (int i = 0; i <= limit; i++)
             {
-                
+                array[index] = i;
+                Variations(array, index + 1, limit);
             }
         }
 
-        
     }
     static void PrintArray(int[] array)
     {

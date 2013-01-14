@@ -1,2 +1,6 @@
 D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\21. GenereateAllDistinctCombinations\bin\Debug\_21.GenereateAllDistinctCombinations.exe.config
 C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\21. GenereateAllDistinctCombinations\bin\Debug\_21.GenereateAllDistinctCombinations.exe.config
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\21. GenereateAllDistinctCombinations\bin\Debug\_21.GenereateAllDistinctCombinations.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\21. GenereateAllDistinctCombinations\bin\Debug\_21.GenereateAllDistinctCombinations.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\21. GenereateAllDistinctCombinations\obj\Debug\_21.GenereateAllDistinctCombinations.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\07. Arrays\21. GenereateAllDistinctCombinations\obj\Debug\_21.GenereateAllDistinctCombinations.pdb
