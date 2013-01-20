@@ -1,0 +1,12 @@
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\bin\Debug\Algorithm.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\bin\Debug\Algorithm.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\bin\Debug\Algorithm.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\obj\Debug\Algorithm.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\obj\Debug\Algorithm.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\bin\Debug\Algorithm.exe.config
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\obj\Debug\Algorithm.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\obj\Debug\Algorithm.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\bin\Debug\Algorithm.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\bin\Debug\Algorithm.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 1\Vodonedorasli\Algorithm\obj\Debug\Algorithm.csprojResolveAssemblyReference.cache
