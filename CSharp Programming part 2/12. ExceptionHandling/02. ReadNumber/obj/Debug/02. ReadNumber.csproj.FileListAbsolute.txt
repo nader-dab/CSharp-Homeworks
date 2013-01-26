@@ -1,0 +1,1 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\12. ExceptionHandling\02. ReadNumber\bin\Debug\_02.ReadNumber.exe.config

@@ -1,0 +1,1 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\09. Methods\13. SolveEquation\bin\Debug\_13.SolveEquation.exe.config

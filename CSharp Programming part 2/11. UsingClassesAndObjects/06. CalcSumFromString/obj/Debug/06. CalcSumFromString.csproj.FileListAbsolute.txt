@@ -1,0 +1,1 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\11. UsingClassesAndObjects\06. CalcSumFromString\bin\Debug\_06.CalcSumFromString.exe.config

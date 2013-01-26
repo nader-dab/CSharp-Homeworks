@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\11. UsingClassesAndObjects\05. CalcNumberOfWorkdays\bin\Debug\_05.CalcNumberOfWorkdays.exe.config
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\11. UsingClassesAndObjects\05. CalcNumberOfWorkdays\bin\Debug\_05.CalcNumberOfWorkdays.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\11. UsingClassesAndObjects\05. CalcNumberOfWorkdays\bin\Debug\_05.CalcNumberOfWorkdays.pdb
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\11. UsingClassesAndObjects\05. CalcNumberOfWorkdays\obj\Debug\_05.CalcNumberOfWorkdays.exe
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\11. UsingClassesAndObjects\05. CalcNumberOfWorkdays\obj\Debug\_05.CalcNumberOfWorkdays.pdb

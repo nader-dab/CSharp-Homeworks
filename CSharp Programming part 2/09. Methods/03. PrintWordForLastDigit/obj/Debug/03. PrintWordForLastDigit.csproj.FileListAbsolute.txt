@@ -1,0 +1,1 @@
+D:\Google Drive\Telerik Academy\CSharp Programming part 2\09. Methods\03. PrintWordForLastDigit\bin\Debug\_03.PrintWordForLastDigit.exe.config
