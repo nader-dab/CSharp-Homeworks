@@ -1,0 +1,3 @@
+naderScore: 400
+Godzilla Score: 0
+koko Score: 0

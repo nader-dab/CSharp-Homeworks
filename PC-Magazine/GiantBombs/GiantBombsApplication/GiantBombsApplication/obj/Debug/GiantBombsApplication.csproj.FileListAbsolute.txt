@@ -1,0 +1,6 @@
+D:\SVN-Giant-Bombs\GiantBombsApplication\GiantBombsApplication\bin\Debug\GiantBombsApplication.exe.config
+D:\SVN-Giant-Bombs\GiantBombsApplication\GiantBombsApplication\bin\Debug\GiantBombsApplication.exe
+D:\SVN-Giant-Bombs\GiantBombsApplication\GiantBombsApplication\bin\Debug\GiantBombsApplication.pdb
+D:\SVN-Giant-Bombs\GiantBombsApplication\GiantBombsApplication\obj\Debug\GiantBombsApplication.csprojResolveAssemblyReference.cache
+D:\SVN-Giant-Bombs\GiantBombsApplication\GiantBombsApplication\obj\Debug\GiantBombsApplication.exe
+D:\SVN-Giant-Bombs\GiantBombsApplication\GiantBombsApplication\obj\Debug\GiantBombsApplication.pdb
