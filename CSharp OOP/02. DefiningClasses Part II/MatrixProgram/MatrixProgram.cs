@@ -48,7 +48,7 @@
                 Console.WriteLine("This will not print");
             }
 
-            matrixOne = new Matrix<int>();
+            matrixOne = new Matrix<int>(8, 8);
 
             if (matrixOne)
             {

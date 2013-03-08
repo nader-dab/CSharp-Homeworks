@@ -130,7 +130,7 @@
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
-                    if ((dynamic)matrix[row, col] == 0)
+                    if (Convert.ToDouble(matrix[row, col]) != 0)
                     {
                         return false;
                     }
@@ -146,14 +146,14 @@
             {
                 for (int col = 0; col < matrix.GetLength(1); col++)
                 {
-                    if ((dynamic)matrix[row, col] == 0)
+                    if (Convert.ToDouble(matrix[row, col]) != 0)
                     {
-                        return false;
+                        return true;
                     }
                 }
             }
 
-            return true;
+            return false;
         }
 
         public int GetLength(int dimension)
