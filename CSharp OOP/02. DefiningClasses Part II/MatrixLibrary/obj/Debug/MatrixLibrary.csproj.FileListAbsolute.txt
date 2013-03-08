@@ -1,0 +1,10 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MatrixLibrary\bin\Debug\MatrixLibrary.dll
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MatrixLibrary\bin\Debug\MatrixLibrary.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MatrixLibrary\obj\Debug\MatrixLibrary.dll
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MatrixLibrary\obj\Debug\MatrixLibrary.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MatrixLibrary\obj\Debug\MatrixLibrary.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MatrixLibrary\obj\Debug\MatrixLibrary.dll
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MatrixLibrary\bin\Debug\MatrixLibrary.dll
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MatrixLibrary\bin\Debug\MatrixLibrary.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MatrixLibrary\obj\Debug\MatrixLibrary.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MatrixLibrary\obj\Debug\MatrixLibrary.csprojResolveAssemblyReference.cache

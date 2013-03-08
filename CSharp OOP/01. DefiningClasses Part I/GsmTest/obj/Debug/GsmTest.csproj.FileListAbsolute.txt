@@ -1,0 +1,7 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\01. DefiningClasses Part I\GsmTest\obj\Debug\GsmTest.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\01. DefiningClasses Part I\GsmTest\bin\Debug\GsmTest.dll
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\01. DefiningClasses Part I\GsmTest\bin\Debug\GsmTest.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\01. DefiningClasses Part I\GsmTest\bin\Debug\GsmLibrary.dll
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\01. DefiningClasses Part I\GsmTest\bin\Debug\GsmLibrary.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\01. DefiningClasses Part I\GsmTest\obj\Debug\GsmTest.dll
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\01. DefiningClasses Part I\GsmTest\obj\Debug\GsmTest.pdb

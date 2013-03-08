@@ -1,0 +1,4 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\VersionLibrary\bin\Debug\VersionLibrary.dll
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\VersionLibrary\bin\Debug\VersionLibrary.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\VersionLibrary\obj\Debug\VersionLibrary.dll
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\VersionLibrary\obj\Debug\VersionLibrary.pdb

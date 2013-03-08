@@ -1,0 +1,8 @@
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MainProgram\bin\Debug\MainProgram.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MainProgram\obj\Debug\PointProgram.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MainProgram\bin\Debug\MainProgram.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MainProgram\bin\Debug\MainProgram.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MainProgram\bin\Debug\PointLibrary.dll
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MainProgram\bin\Debug\PointLibrary.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MainProgram\obj\Debug\MainProgram.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\02. DefiningClasses Part II\MainProgram\obj\Debug\MainProgram.pdb
