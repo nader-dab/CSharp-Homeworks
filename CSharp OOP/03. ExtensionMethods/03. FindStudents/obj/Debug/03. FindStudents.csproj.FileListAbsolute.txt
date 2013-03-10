@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\03. FindStudents\bin\Debug\_03.FindStudents.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\03. FindStudents\obj\Debug\03. FindStudents.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\03. FindStudents\bin\Debug\_03.FindStudents.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\03. FindStudents\bin\Debug\_03.FindStudents.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\03. FindStudents\obj\Debug\_03.FindStudents.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\03. FindStudents\obj\Debug\_03.FindStudents.pdb

@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\02. IEnumerableExtension\bin\Debug\_02.IEnumerableExtension.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\02. IEnumerableExtension\bin\Debug\_02.IEnumerableExtension.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\02. IEnumerableExtension\bin\Debug\_02.IEnumerableExtension.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\02. IEnumerableExtension\obj\Debug\_02.IEnumerableExtension.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\02. IEnumerableExtension\obj\Debug\_02.IEnumerableExtension.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\02. IEnumerableExtension\obj\Debug\02. IEnumerableExtension.csprojResolveAssemblyReference.cache

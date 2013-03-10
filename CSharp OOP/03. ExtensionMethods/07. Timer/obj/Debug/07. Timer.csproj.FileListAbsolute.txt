@@ -1,0 +1,2 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\07. Timer\bin\Debug\_07.Timer.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\07. Timer\obj\Debug\07. Timer.csprojResolveAssemblyReference.cache

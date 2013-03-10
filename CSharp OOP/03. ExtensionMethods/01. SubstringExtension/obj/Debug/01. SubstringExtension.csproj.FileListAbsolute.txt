@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\01. SubstringExtension\bin\Debug\_01.SubstringExtension.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\01. SubstringExtension\bin\Debug\_01.SubstringExtension.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\01. SubstringExtension\bin\Debug\_01.SubstringExtension.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\01. SubstringExtension\obj\Debug\01. SubstringExtension.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\01. SubstringExtension\obj\Debug\_01.SubstringExtension.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\03. ExtensionMethods\01. SubstringExtension\obj\Debug\_01.SubstringExtension.pdb
