@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\03. CustomException\bin\Debug\_03.CustomException.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\03. CustomException\bin\Debug\_03.CustomException.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\03. CustomException\bin\Debug\_03.CustomException.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\03. CustomException\obj\Debug\03. CustomException.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\03. CustomException\obj\Debug\_03.CustomException.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\03. CustomException\obj\Debug\_03.CustomException.pdb

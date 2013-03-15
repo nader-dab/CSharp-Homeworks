@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\02. BankSystem\bin\Debug\_02.BankSystem.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\02. BankSystem\bin\Debug\_02.BankSystem.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\02. BankSystem\bin\Debug\_02.BankSystem.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\02. BankSystem\obj\Debug\02. BankSystem.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\02. BankSystem\obj\Debug\_02.BankSystem.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\05. OOP Principles Part II\02. BankSystem\obj\Debug\_02.BankSystem.pdb

@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\01. TaskSchool\bin\Debug\_01.TaskSchool.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\01. TaskSchool\bin\Debug\_01.TaskSchool.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\01. TaskSchool\bin\Debug\_01.TaskSchool.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\01. TaskSchool\obj\Debug\01. TaskSchool.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\01. TaskSchool\obj\Debug\_01.TaskSchool.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\01. TaskSchool\obj\Debug\_01.TaskSchool.pdb

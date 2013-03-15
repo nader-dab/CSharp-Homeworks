@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\03. AnimalHierarchy\bin\Debug\_03.AnimalHierarchy.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\03. AnimalHierarchy\bin\Debug\_03.AnimalHierarchy.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\03. AnimalHierarchy\bin\Debug\_03.AnimalHierarchy.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\03. AnimalHierarchy\obj\Debug\03. AnimalHierarchy.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\03. AnimalHierarchy\obj\Debug\_03.AnimalHierarchy.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\03. AnimalHierarchy\obj\Debug\_03.AnimalHierarchy.pdb

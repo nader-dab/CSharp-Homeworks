@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\02. Humans\obj\Debug\02. Humans.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\02. Humans\bin\Debug\_02.Humans.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\02. Humans\bin\Debug\_02.Humans.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\02. Humans\bin\Debug\_02.Humans.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\02. Humans\obj\Debug\_02.Humans.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\04. OOP Principles Part I\02. Humans\obj\Debug\_02.Humans.pdb
