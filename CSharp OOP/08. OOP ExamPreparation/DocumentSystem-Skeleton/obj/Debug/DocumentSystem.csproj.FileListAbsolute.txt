@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\DocumentSystem-Skeleton\bin\Debug\DocumentSystem.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\DocumentSystem-Skeleton\bin\Debug\DocumentSystem.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\DocumentSystem-Skeleton\obj\Debug\DocumentSystem.pdb

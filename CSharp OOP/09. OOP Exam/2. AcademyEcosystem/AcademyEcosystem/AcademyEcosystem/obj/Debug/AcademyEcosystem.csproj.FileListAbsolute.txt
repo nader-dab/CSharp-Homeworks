@@ -1,0 +1,18 @@
+C:\Dropbox\Work\VariousTests\AcademyEcosystem\AcademyEcosystem\bin\Debug\AcademyEcosystem.exe.config
+C:\Dropbox\Work\VariousTests\AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.csprojResolveAssemblyReference.cache
+C:\Dropbox\Work\VariousTests\AcademyEcosystem\AcademyEcosystem\bin\Debug\AcademyEcosystem.exe
+C:\Dropbox\Work\VariousTests\AcademyEcosystem\AcademyEcosystem\bin\Debug\AcademyEcosystem.pdb
+C:\Dropbox\Work\VariousTests\AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.exe
+C:\Dropbox\Work\VariousTests\AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.pdb
+C:\Dropbox\Work\VariousTests\AcademyEcosystemX\AcademyEcosystem\AcademyEcosystem\bin\Debug\AcademyEcosystem.exe.config
+C:\Dropbox\Work\VariousTests\AcademyEcosystemX\AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.exe
+C:\Dropbox\Work\VariousTests\AcademyEcosystemX\AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AcademyEcosystem\bin\Debug\AcademyEcosystem.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AcademyEcosystem\bin\Debug\AcademyEcosystem.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AcademyEcosystem\bin\Debug\AcademyEcosystem.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\09. OOP Exam\2. AcademyEcosystem\AcademyEcosystem\AcademyEcosystem\bin\Debug\AcademyEcosystem.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\09. OOP Exam\2. AcademyEcosystem\AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\Homeworks\09. OOP Exam\2. AcademyEcosystem\AcademyEcosystem\AcademyEcosystem\obj\Debug\AcademyEcosystem.pdb

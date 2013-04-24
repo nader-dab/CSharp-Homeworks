@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\bin\Debug\AcademyGeometry.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AcademyGeometry-Skeleton\AcademyGeometry\AcademyGeometry\obj\Debug\AcademyGeometry.pdb

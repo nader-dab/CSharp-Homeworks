@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\04. Mines\bin\Debug\_04.Mines.exe.config
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\04. Mines\bin\Debug\_04.Mines.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\04. Mines\bin\Debug\_04.Mines.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\04. Mines\obj\Debug\04. Mines.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\04. Mines\obj\Debug\_04.Mines.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\04. Mines\obj\Debug\_04.Mines.pdb

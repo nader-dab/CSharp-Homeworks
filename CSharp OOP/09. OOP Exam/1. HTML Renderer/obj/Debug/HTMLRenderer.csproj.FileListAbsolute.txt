@@ -1,0 +1,7 @@
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\1. HTML Renderer\bin\Debug\HTMLRenderer.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\1. HTML Renderer\bin\Debug\HTMLRenderer.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\1. HTML Renderer\obj\Debug\HTMLRenderer.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\1. HTML Renderer\obj\Debug\HTMLRenderer.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\1. HTML Renderer\obj\Debug\HTMLRenderer.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\09. OOP Exam\1. HTML Renderer\obj\Debug\HTMLRenderer.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\09. OOP Exam\1. HTML Renderer\obj\Debug\HTMLRenderer.pdb

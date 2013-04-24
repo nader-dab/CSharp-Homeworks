@@ -1,0 +1,7 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02.PersonInformationTest\bin\Debug\02.PersonInformationTest.dll
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02.PersonInformationTest\bin\Debug\02.PersonInformationTest.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02.PersonInformationTest\bin\Debug\_02.PersonInformation.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02.PersonInformationTest\bin\Debug\_02.PersonInformation.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02.PersonInformationTest\obj\Debug\02. PersonInformationTest.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02.PersonInformationTest\obj\Debug\02.PersonInformationTest.dll
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02.PersonInformationTest\obj\Debug\02.PersonInformationTest.pdb

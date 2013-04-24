@@ -1,0 +1,6 @@
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\AllInOneHTML\bin\Debug\AllInOneHTML.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\AllInOneHTML\bin\Debug\AllInOneHTML.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\AllInOneHTML\bin\Debug\AllInOneHTML.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\AllInOneHTML\obj\Debug\AllInOneHTML.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\AllInOneHTML\obj\Debug\AllInOneHTML.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\AllInOneHTML\obj\Debug\AllInOneHTML.pdb

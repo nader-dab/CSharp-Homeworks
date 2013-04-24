@@ -1,0 +1,6 @@
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AllInOneEcosystem\bin\Debug\AllInOneEcosystem.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AllInOneEcosystem\bin\Debug\AllInOneEcosystem.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AllInOneEcosystem\bin\Debug\AllInOneEcosystem.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AllInOneEcosystem\obj\Debug\AllInOneEcosystem.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AllInOneEcosystem\obj\Debug\AllInOneEcosystem.exe
+C:\SAD\Google Drive\Telerik Academy\CSharp OOP\2. AcademyEcosystem\AcademyEcosystem\AllInOneEcosystem\obj\Debug\AllInOneEcosystem.pdb

@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AllInOne\bin\Debug\AllInOne.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AllInOne\bin\Debug\AllInOne.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AllInOne\bin\Debug\AllInOne.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AllInOne\obj\Debug\AllInOne.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AllInOne\obj\Debug\AllInOne.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\materials\Exam\AllInOne\obj\Debug\AllInOne.pdb

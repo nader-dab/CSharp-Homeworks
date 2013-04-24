@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisLibrary\bin\Debug\TetrisLibrary.dll
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisLibrary\bin\Debug\TetrisLibrary.pdb
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisLibrary\obj\Debug\TetrisLibrary.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisLibrary\obj\Debug\TetrisLibrary.dll
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisLibrary\obj\Debug\TetrisLibrary.pdb

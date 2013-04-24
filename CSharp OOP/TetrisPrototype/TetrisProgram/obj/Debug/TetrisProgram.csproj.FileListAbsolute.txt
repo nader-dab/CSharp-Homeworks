@@ -1,0 +1,15 @@
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\bin\Debug\TetrisProgram.exe.config
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\bin\Debug\TetrisProgram.exe
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\bin\Debug\TetrisProgram.pdb
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\obj\Debug\TetrisProgram.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\obj\Debug\TetrisProgram.exe
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\obj\Debug\TetrisProgram.pdb
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\bin\Debug\CommonLibrary.dll
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\bin\Debug\TetrisEngine.dll
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\bin\Debug\TetrisLibrary.dll
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\bin\Debug\CommonLibrary.pdb
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\bin\Debug\TetrisEngine.pdb
+D:\Google Drive\Telerik Academy\TetrisPrototype\TetrisProgram\bin\Debug\TetrisLibrary.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\TetrisPrototype\TetrisProgram\bin\Debug\TetrisProgram.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\TetrisPrototype\TetrisProgram\obj\Debug\TetrisProgram.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\TetrisPrototype\TetrisProgram\obj\Debug\TetrisProgram.pdb

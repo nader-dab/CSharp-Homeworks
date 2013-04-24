@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\01. ConsolePrinter\bin\Debug\_01.ConsolePrinter.exe.config
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\01. ConsolePrinter\bin\Debug\_01.ConsolePrinter.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\01. ConsolePrinter\bin\Debug\_01.ConsolePrinter.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\01. ConsolePrinter\obj\Debug\01. ConsolePrinter.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\01. ConsolePrinter\obj\Debug\_01.ConsolePrinter.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\01. ConsolePrinter\obj\Debug\_01.ConsolePrinter.pdb

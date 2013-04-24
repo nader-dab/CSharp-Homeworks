@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02. PersonInformation\bin\Debug\_02.PersonInformation.exe.config
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02. PersonInformation\bin\Debug\_02.PersonInformation.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02. PersonInformation\bin\Debug\_02.PersonInformation.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02. PersonInformation\obj\Debug\_02.PersonInformation.exe
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02. PersonInformation\obj\Debug\_02.PersonInformation.pdb
+D:\Google Drive\Telerik Academy\CSharp OOP\Homeworks\06. CommonTypeSystem\02. PersonInformation\obj\Debug\02. PersonInformation.csprojResolveAssemblyReference.cache

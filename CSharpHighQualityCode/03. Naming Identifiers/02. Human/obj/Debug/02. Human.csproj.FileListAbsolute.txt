@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\02. Human\obj\Debug\02. Human.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\02. Human\bin\Debug\_02.Human.exe.config
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\02. Human\bin\Debug\_02.Human.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\02. Human\bin\Debug\_02.Human.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\02. Human\obj\Debug\_02.Human.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\03. Naming Identifiers\02. Human\obj\Debug\_02.Human.pdb
