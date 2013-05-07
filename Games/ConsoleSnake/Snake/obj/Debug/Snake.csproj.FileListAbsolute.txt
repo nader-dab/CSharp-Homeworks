@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\Games\ConsoleSnake\Snake\bin\Debug\Snake.exe.config
+D:\Google Drive\Telerik Academy\Games\ConsoleSnake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\Games\ConsoleSnake\Snake\bin\Debug\Snake.exe
+D:\Google Drive\Telerik Academy\Games\ConsoleSnake\Snake\bin\Debug\Snake.pdb
+D:\Google Drive\Telerik Academy\Games\ConsoleSnake\Snake\obj\Debug\Snake.exe
+D:\Google Drive\Telerik Academy\Games\ConsoleSnake\Snake\obj\Debug\Snake.pdb
