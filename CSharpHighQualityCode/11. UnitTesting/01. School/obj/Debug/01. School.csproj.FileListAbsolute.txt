@@ -1,0 +1,4 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\01. School\bin\Debug\_01.School.dll
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\01. School\bin\Debug\_01.School.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\01. School\obj\Debug\_01.School.dll
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\01. School\obj\Debug\_01.School.pdb

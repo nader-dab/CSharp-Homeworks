@@ -1,0 +1,4 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\08. HighQualityClasses\Abstraction\bin\Debug\Abstraction.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\08. HighQualityClasses\Abstraction\bin\Debug\Abstraction.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\08. HighQualityClasses\Abstraction\obj\Debug\Abstraction.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\08. HighQualityClasses\Abstraction\obj\Debug\Abstraction.pdb

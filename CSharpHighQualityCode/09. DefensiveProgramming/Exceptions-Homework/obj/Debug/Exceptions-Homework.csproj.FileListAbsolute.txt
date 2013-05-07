@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\09. DefensiveProgramming\Exceptions-Homework\bin\Debug\Exceptions-Homework.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\09. DefensiveProgramming\Exceptions-Homework\bin\Debug\Exceptions-Homework.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\09. DefensiveProgramming\Exceptions-Homework\obj\Debug\Exceptions-Homework.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\09. DefensiveProgramming\Exceptions-Homework\obj\Debug\Exceptions-Homework.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\09. DefensiveProgramming\Exceptions-Homework\obj\Debug\Exceptions-Homework.pdb

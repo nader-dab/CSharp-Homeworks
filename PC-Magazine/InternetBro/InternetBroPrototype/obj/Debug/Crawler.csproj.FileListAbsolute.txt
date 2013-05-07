@@ -1,0 +1,6 @@
+C:\PCMagIBro\InternetBro\InternetBroPrototype\bin\Debug\InternetBroPrototype.exe.config
+C:\PCMagIBro\InternetBro\InternetBroPrototype\obj\Debug\Crawler.csprojResolveAssemblyReference.cache
+C:\PCMagIBro\InternetBro\InternetBroPrototype\bin\Debug\InternetBroPrototype.exe
+C:\PCMagIBro\InternetBro\InternetBroPrototype\bin\Debug\InternetBroPrototype.pdb
+C:\PCMagIBro\InternetBro\InternetBroPrototype\obj\Debug\InternetBroPrototype.exe
+C:\PCMagIBro\InternetBro\InternetBroPrototype\obj\Debug\InternetBroPrototype.pdb

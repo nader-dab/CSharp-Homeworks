@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CSharpTest", "CSharpTest", "{D880A6E5-7603-462D-8950-D9E339CA94D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crawler", "InternetBroPrototype\Crawler.csproj", "{6B236C24-745B-429C-9F79-B3953096F76A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{910E9B8B-F898-4404-AE31-FA56E29CB387}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://tfs.codeplex.com/tfs/tfs35
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = InternetBroPrototype\\Crawler.csproj
+		SccProjectTopLevelParentUniqueName1 = InternetBro.sln
+		SccProjectName1 = InternetBroPrototype
+		SccLocalPath1 = InternetBroPrototype
+		SccProjectUniqueName2 = UnitTestProject1\\UnitTestProject1.csproj
+		SccProjectTopLevelParentUniqueName2 = InternetBro.sln
+		SccProjectName2 = UnitTestProject1
+		SccLocalPath2 = UnitTestProject1
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B236C24-745B-429C-9F79-B3953096F76A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B236C24-745B-429C-9F79-B3953096F76A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B236C24-745B-429C-9F79-B3953096F76A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B236C24-745B-429C-9F79-B3953096F76A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{910E9B8B-F898-4404-AE31-FA56E29CB387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{910E9B8B-F898-4404-AE31-FA56E29CB387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{910E9B8B-F898-4404-AE31-FA56E29CB387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{910E9B8B-F898-4404-AE31-FA56E29CB387}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6B236C24-745B-429C-9F79-B3953096F76A} = {D880A6E5-7603-462D-8950-D9E339CA94D6}
+		{910E9B8B-F898-4404-AE31-FA56E29CB387} = {D880A6E5-7603-462D-8950-D9E339CA94D6}
+	EndGlobalSection
+EndGlobal

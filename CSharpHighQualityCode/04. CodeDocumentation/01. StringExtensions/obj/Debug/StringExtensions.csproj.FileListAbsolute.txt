@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\04. CodeDocumentation\01. StringExtensions\bin\Debug\StringExtensions.dll
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\04. CodeDocumentation\01. StringExtensions\bin\Debug\StringExtensions.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\04. CodeDocumentation\01. StringExtensions\obj\Debug\StringExtensions.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\04. CodeDocumentation\01. StringExtensions\obj\Debug\StringExtensions.dll
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\04. CodeDocumentation\01. StringExtensions\obj\Debug\StringExtensions.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\04. CodeDocumentation\01. StringExtensions\bin\Debug\StringExtensions.XML

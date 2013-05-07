@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\10. TuningAndOptimization\02. BasicAritmethicPerformanceComparison\bin\Debug\_02.BasicAritmethicPerformanceComparison.exe.config
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\10. TuningAndOptimization\02. BasicAritmethicPerformanceComparison\bin\Debug\_02.BasicAritmethicPerformanceComparison.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\10. TuningAndOptimization\02. BasicAritmethicPerformanceComparison\bin\Debug\_02.BasicAritmethicPerformanceComparison.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\10. TuningAndOptimization\02. BasicAritmethicPerformanceComparison\obj\Debug\02. BasicAritmethicPerformanceComparison.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\10. TuningAndOptimization\02. BasicAritmethicPerformanceComparison\obj\Debug\_02.BasicAritmethicPerformanceComparison.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\10. TuningAndOptimization\02. BasicAritmethicPerformanceComparison\obj\Debug\_02.BasicAritmethicPerformanceComparison.pdb

@@ -1,0 +1,7 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\02. TestSchoolSystem\obj\Debug\02. TestSchoolSystem.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\02. TestSchoolSystem\bin\Debug\_02.TestSchoolSystem.dll
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\02. TestSchoolSystem\bin\Debug\_02.TestSchoolSystem.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\02. TestSchoolSystem\bin\Debug\_01.SchoolSystem.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\02. TestSchoolSystem\bin\Debug\_01.SchoolSystem.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\02. TestSchoolSystem\obj\Debug\_02.TestSchoolSystem.dll
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\01. Essay\11. UnitTesting\02. TestSchoolSystem\obj\Debug\_02.TestSchoolSystem.pdb

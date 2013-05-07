@@ -1,0 +1,134 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>StringExtensions</name>
+    </assembly>
+    <members>
+        <member name="T:TelerikStringExtensions.StringExtensions">
+            <summary>
+            Extension methods for <see cref="T:System.String"/> class.
+            </summary>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ToMd5Hash(System.String)">
+            <summary>
+            Converts the string instance to a MD5 hash.
+            </summary>
+            <param name="input">String to get the MD5 hash.</param>
+            <returns>Hexadecimal representation of the input string.</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ToBoolean(System.String)">
+            <summary>
+            Represents the boolean interpretation of the strings "true", "ok", "yes", "1", "да".
+            </summary>
+            <param name="input">String value that will be converted to boolean.</param>
+            <returns>True if the input string can be converted.</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ToShort(System.String)">
+            <summary>
+            Converts the string instance to <see cref="T:System.Int16"/>.
+            </summary>
+            <param name="input">String value that will be converted.</param>
+            <returns><see cref="T:System.Int16"/> representation of the input string.</returns>
+            <remarks>Returns 0 if the input string is not a number.</remarks>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ToInteger(System.String)">
+            <summary>
+            Converts the string instance to <see cref="T:System.Int32"/>.
+            </summary>
+            <param name="input">String value that will be converted.</param>
+            <returns><see cref="T:System.Int32"/> representation of the input string.</returns>
+            <remarks>Returns 0 if the input string is not a number.</remarks>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ToLong(System.String)">
+            <summary>
+            Converts the string instance to <see cref="T:System.Int64"/>.
+            </summary>
+            <param name="input">String value that will be converted.</param>
+            <returns><see cref="T:System.Int64"/> representation of the input string.</returns>
+            <remarks>Returns 0 if the input string is not a number.</remarks>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ToDateTime(System.String)">
+            <summary>
+            Converts the string instance to <see cref="T:System.DateTime"/>.
+            </summary>
+            <param name="input">String value that will be converted.</param>
+            <returns><see cref="T:System.DateTime"/> representation of the input string.</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.CapitalizeFirstLetter(System.String)">
+            <summary>
+            Capitalizes the first letter of the current string instance.
+            </summary>
+            <param name="input">The string that will be modified.</param>
+            <returns>String with a capitalized first letter.</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.GetStringBetween(System.String,System.String,System.String,System.Int32)">
+            <summary>
+            Returns a substring between <paramref name="startString"/> and <paramref name="endString"/> starting from <paramref name="startFrom"/>.
+            </summary>
+            <param name="input">The current string instance.</param>
+            <param name="startString">The left substring from which to start the search.</param>
+            <param name="endString">The right substring from which to start the search.</param>
+            <param name="startFrom">Position from which to start the search.</param>
+            <returns>Substring between <paramref name="startString"/> and <paramref name="endString"/> starting from <paramref name="startFrom"/>.</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ConvertCyrillicToLatinLetters(System.String)">
+            <summary>
+            Converts all cyrillic letters in the string to the corresponding latin letters.
+            </summary>
+            <param name="input">The current string instance.</param>
+            <returns>String containing the latin representation of all cyrillic letters that appear in the input string.</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ConvertLatinToCyrillicKeyboard(System.String)">
+            <summary>
+            Converts all latin letters in the string to the corresponding cyrillic letters.
+            </summary>
+            <param name="input">The current string instance.</param>
+            <returns>String containing the cyrillic representation of all latin letters that appear in the input string.</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ToValidUsername(System.String)">
+            <summary>
+            Converts a string to a valid username by replacing all cyrillic letters with the corresponding latin letters and removes all non-alphanumeric characters (excluding the symbols '_', '.' and '-').
+            </summary>
+            <param name="input">The current string instance.</param>
+            <returns>String consisting of alphanumeric characters (including the symbols '_', '.' and '-').</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ToValidLatinFileName(System.String)">
+            <summary>
+            Converts a string to a valid file name by replacing all cyrillic letters with the corresponding latin letters and removes all non-alphanumeric characters (excluding the symbols '_', '.' and '-'). All spaces are replaced with the symbol '-'.
+            </summary>
+            <param name="input">The current string instance.</param>
+            <returns>String consisting of alphanumeric characters (including the symbols '_', '.' and '-').</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.GetFirstCharacters(System.String,System.Int32)">
+            <summary>
+            Gets the first characters of a string starting from the beginning and 
+            whose length is the lesser of the string's length and <paramref name="charsCount"/> 
+            </summary>
+            <param name="input">The current string instance.</param>
+            <param name="charsCount">Number of characters in the substring.</param>
+            <returns>String containing the first characters of the current string instance.</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.GetFileExtension(System.String)">
+            <summary>
+            Gets the extension of a string represented as a file name.
+            </summary>
+            <param name="fileName">The current string instance.</param>
+            <returns>String representing the file extension.</returns>
+            <remarks>Returns an empty string if the input is nat a correct file name.</remarks>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ToContentType(System.String)">
+            <summary>
+            Gets the corresponding content type of a file extension.
+            </summary>
+            <param name="fileExtension">The current string instance.</param>
+            <returns>String representation of the content type.</returns>
+        </member>
+        <member name="M:TelerikStringExtensions.StringExtensions.ToByteArray(System.String)">
+            <summary>
+            Converts a string into a sequence of bytes.
+            </summary>
+            <param name="input">The current string instance.</param>
+            <returns>Byte array containing the byte representation of the string chars.</returns>
+        </member>
+    </members>
+</doc>
