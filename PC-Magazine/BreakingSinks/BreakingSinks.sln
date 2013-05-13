@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinksCommonLibrary", "SinksCommonLibrary\SinksCommonLibrary.csproj", "{0EDCF7B5-355B-495E-A88C-47429F8B6082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SinksApplication", "SinksApplication\SinksApplication.csproj", "{17542414-434F-4C4E-8E57-0D8C92BE85A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EDCF7B5-355B-495E-A88C-47429F8B6082}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDCF7B5-355B-495E-A88C-47429F8B6082}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDCF7B5-355B-495E-A88C-47429F8B6082}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDCF7B5-355B-495E-A88C-47429F8B6082}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17542414-434F-4C4E-8E57-0D8C92BE85A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17542414-434F-4C4E-8E57-0D8C92BE85A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17542414-434F-4C4E-8E57-0D8C92BE85A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17542414-434F-4C4E-8E57-0D8C92BE85A9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
