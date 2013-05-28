@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\bin\Debug\GameFifteen.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\bin\Debug\GameFifteen.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\obj\x86\Debug\Matrica.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\obj\x86\Debug\GameFifteen.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\obj\x86\Debug\GameFifteen.pdb

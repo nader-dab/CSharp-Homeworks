@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\02. Singleton\bin\Debug\_02.Singleton.exe.config
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\02. Singleton\bin\Debug\_02.Singleton.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\02. Singleton\bin\Debug\_02.Singleton.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\02. Singleton\obj\Debug\_02.Singleton.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\02. Singleton\obj\Debug\_02.Singleton.pdb

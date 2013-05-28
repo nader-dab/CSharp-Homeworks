@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\03. SimpleFactory\bin\Debug\_03.SimpleFactory.exe.config
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\03. SimpleFactory\obj\Debug\03. SimpleFactory.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\03. SimpleFactory\bin\Debug\_03.SimpleFactory.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\03. SimpleFactory\bin\Debug\_03.SimpleFactory.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\03. SimpleFactory\obj\Debug\_03.SimpleFactory.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\03. SimpleFactory\obj\Debug\_03.SimpleFactory.pdb

@@ -1,0 +1,7 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\WalkInMatrix.Tests\bin\Debug\WalkInMatrix.Tests.dll
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\WalkInMatrix.Tests\bin\Debug\WalkInMatrix.Tests.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\WalkInMatrix.Tests\bin\Debug\WalkInMatrix.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\WalkInMatrix.Tests\bin\Debug\WalkInMatrix.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\WalkInMatrix.Tests\obj\Debug\WalkInMatrix.Tests.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\WalkInMatrix.Tests\obj\Debug\WalkInMatrix.Tests.dll
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\WalkInMatrix.Tests\obj\Debug\WalkInMatrix.Tests.pdb

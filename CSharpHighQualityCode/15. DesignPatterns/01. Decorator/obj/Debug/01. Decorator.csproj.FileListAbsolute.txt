@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\01. Decorator\bin\Debug\_01.Decorator.exe.config
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\01. Decorator\bin\Debug\_01.Decorator.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\01. Decorator\bin\Debug\_01.Decorator.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\01. Decorator\obj\Debug\01. Decorator.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\01. Decorator\obj\Debug\_01.Decorator.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\15. DesignPatterns\01. Decorator\obj\Debug\_01.Decorator.pdb

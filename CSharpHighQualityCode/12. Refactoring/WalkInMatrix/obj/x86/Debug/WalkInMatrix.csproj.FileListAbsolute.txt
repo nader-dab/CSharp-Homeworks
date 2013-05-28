@@ -1,0 +1,7 @@
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\obj\x86\Debug\WalkInMatrix.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\bin\Debug\WalkInMatrix.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\bin\Debug\WalkInMatrix.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\obj\x86\Debug\WalkInMatrix.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\obj\x86\Debug\WalkInMatrix.pdb
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\WalkInMatrix\obj\x86\Debug\WalkInMatrix.exe
+D:\Google Drive\Telerik Academy\CSharpHighQualityCode\Homework\12. Refactoring\WalkInMatrix\obj\x86\Debug\WalkInMatrix.pdb
