@@ -1,0 +1,1 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\12. StaticStack\bin\Debug\_12.StaticStack.exe.config

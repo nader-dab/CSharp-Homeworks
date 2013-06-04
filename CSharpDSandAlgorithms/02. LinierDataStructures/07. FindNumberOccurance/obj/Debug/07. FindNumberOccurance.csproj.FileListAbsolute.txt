@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\07. FindNumberOccurance\bin\Debug\_07.FindNumberOccurance.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\07. FindNumberOccurance\bin\Debug\_07.FindNumberOccurance.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\07. FindNumberOccurance\bin\Debug\_07.FindNumberOccurance.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\07. FindNumberOccurance\obj\Debug\_07.FindNumberOccurance.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\07. FindNumberOccurance\obj\Debug\_07.FindNumberOccurance.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\07. FindNumberOccurance\obj\Debug\07. FindNumberOccurance.csprojResolveAssemblyReference.cache

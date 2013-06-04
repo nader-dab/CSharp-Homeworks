@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\14. Labirinth\bin\Debug\_14.Labirinth.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\14. Labirinth\obj\Debug\14. Labirinth.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\14. Labirinth\bin\Debug\_14.Labirinth.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\14. Labirinth\bin\Debug\_14.Labirinth.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\14. Labirinth\obj\Debug\_14.Labirinth.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\14. Labirinth\obj\Debug\_14.Labirinth.pdb

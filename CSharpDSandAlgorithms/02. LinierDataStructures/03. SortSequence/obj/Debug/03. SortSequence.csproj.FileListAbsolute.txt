@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\03. SortSequence\bin\Debug\_03.SortSequence.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\03. SortSequence\bin\Debug\_03.SortSequence.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\03. SortSequence\bin\Debug\_03.SortSequence.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\03. SortSequence\obj\Debug\_03.SortSequence.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\03. SortSequence\obj\Debug\_03.SortSequence.pdb

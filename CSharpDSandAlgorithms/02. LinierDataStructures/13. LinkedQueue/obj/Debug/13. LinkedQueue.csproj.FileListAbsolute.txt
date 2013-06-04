@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\13. LinkedQueue\bin\Debug\_13.LinkedQueue.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\13. LinkedQueue\bin\Debug\_13.LinkedQueue.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\13. LinkedQueue\bin\Debug\_13.LinkedQueue.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\13. LinkedQueue\obj\Debug\_13.LinkedQueue.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\13. LinkedQueue\obj\Debug\_13.LinkedQueue.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\13. LinkedQueue\obj\Debug\13. LinkedQueue.csprojResolveAssemblyReference.cache

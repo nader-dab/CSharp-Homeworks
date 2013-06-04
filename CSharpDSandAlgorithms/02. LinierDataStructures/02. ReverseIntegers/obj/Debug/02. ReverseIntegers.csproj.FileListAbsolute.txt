@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\02. ReverseIntegers\bin\Debug\_02.ReverseIntegers.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\02. ReverseIntegers\bin\Debug\_02.ReverseIntegers.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\02. ReverseIntegers\bin\Debug\_02.ReverseIntegers.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\02. ReverseIntegers\obj\Debug\_02.ReverseIntegers.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\02. ReverseIntegers\obj\Debug\_02.ReverseIntegers.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\02. ReverseIntegers\obj\Debug\02. ReverseIntegers.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\04. LongestSubsequenceOfEqualNumbers\bin\Debug\_04.LongestSubsequenceOfEqualNumbers.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\04. LongestSubsequenceOfEqualNumbers\bin\Debug\_04.LongestSubsequenceOfEqualNumbers.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\04. LongestSubsequenceOfEqualNumbers\bin\Debug\_04.LongestSubsequenceOfEqualNumbers.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\04. LongestSubsequenceOfEqualNumbers\obj\Debug\_04.LongestSubsequenceOfEqualNumbers.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\04. LongestSubsequenceOfEqualNumbers\obj\Debug\_04.LongestSubsequenceOfEqualNumbers.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\04. LongestSubsequenceOfEqualNumbers\obj\Debug\04. LongestSubsequenceOfEqualNumbers.csprojResolveAssemblyReference.cache

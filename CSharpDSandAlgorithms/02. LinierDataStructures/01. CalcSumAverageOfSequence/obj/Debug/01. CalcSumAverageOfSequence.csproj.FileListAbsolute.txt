@@ -1,0 +1,9 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\01. CalcSumAverageOfSequence\bin\Debug\_01.CalcSumAverageOfSequence.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\01. CalcSumAverageOfSequence\bin\Debug\_01.CalcSumAverageOfSequence.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\01. CalcSumAverageOfSequence\bin\Debug\_01.CalcSumAverageOfSequence.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\01. CalcSumAverageOfSequence\obj\Debug\01. CalcSumAverageOfSequence.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\01. CalcSumAverageOfSequence\obj\Debug\_01.CalcSumAverageOfSequence.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\01. CalcSumAverageOfSequence\obj\Debug\_01.CalcSumAverageOfSequence.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\01. CalcSumAverageOfSequence\bin\Debug\_01.CalcSumAverageOfSequence.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\01. CalcSumAverageOfSequence\obj\Debug\_01.CalcSumAverageOfSequence.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\01. CalcSumAverageOfSequence\obj\Debug\_01.CalcSumAverageOfSequence.pdb

@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\05. RemoveAllNegativeNumbers\bin\Debug\_05.RemoveAllNegativeNumbers.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\05. RemoveAllNegativeNumbers\bin\Debug\_05.RemoveAllNegativeNumbers.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\05. RemoveAllNegativeNumbers\bin\Debug\_05.RemoveAllNegativeNumbers.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\05. RemoveAllNegativeNumbers\obj\Debug\_05.RemoveAllNegativeNumbers.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\05. RemoveAllNegativeNumbers\obj\Debug\_05.RemoveAllNegativeNumbers.pdb

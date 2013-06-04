@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\08. FindMajorant\bin\Debug\_08.FindMajorant.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\08. FindMajorant\bin\Debug\_08.FindMajorant.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\08. FindMajorant\bin\Debug\_08.FindMajorant.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\08. FindMajorant\obj\Debug\_08.FindMajorant.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\08. FindMajorant\obj\Debug\_08.FindMajorant.pdb

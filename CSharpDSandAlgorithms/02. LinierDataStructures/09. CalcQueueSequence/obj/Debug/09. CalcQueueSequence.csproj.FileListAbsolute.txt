@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\09. CalcQueueSequence\bin\Debug\_09.CalcQueueSequence.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\09. CalcQueueSequence\bin\Debug\_09.CalcQueueSequence.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\09. CalcQueueSequence\bin\Debug\_09.CalcQueueSequence.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\09. CalcQueueSequence\obj\Debug\09. CalcQueueSequence.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\09. CalcQueueSequence\obj\Debug\_09.CalcQueueSequence.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\02. LinierDataStructures\09. CalcQueueSequence\obj\Debug\_09.CalcQueueSequence.pdb
