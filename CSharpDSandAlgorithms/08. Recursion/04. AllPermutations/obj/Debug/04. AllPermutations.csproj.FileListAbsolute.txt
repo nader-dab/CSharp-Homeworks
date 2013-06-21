@@ -1,0 +1,11 @@
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\bin\Debug\_04.AllPermutations.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\bin\Debug\_04.AllPermutations.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\bin\Debug\_04.AllPermutations.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\obj\Debug\_04.AllPermutations.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\obj\Debug\_04.AllPermutations.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\bin\Debug\_04.AllPermutations.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\obj\Debug\_04.AllPermutations.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\obj\Debug\_04.AllPermutations.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\bin\Debug\_04.AllPermutations.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\bin\Debug\_04.AllPermutations.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\04. AllPermutations\obj\Debug\04. AllPermutations.csprojResolveAssemblyReference.cache

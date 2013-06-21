@@ -1,0 +1,5 @@
+123123 | Apple | Iphone | 499
+123145 | Samsung | S4 | 399
+232312 | HTC | 8x | 379
+232323 | Nokia | Lumia 920 | 389
+123432 | HubaBuba | chewing gum | 1

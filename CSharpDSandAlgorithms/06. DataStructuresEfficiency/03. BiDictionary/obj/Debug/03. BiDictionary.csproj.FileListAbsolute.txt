@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\03. BiDictionary\bin\Debug\_03.BiDictionary.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\03. BiDictionary\bin\Debug\_03.BiDictionary.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\03. BiDictionary\bin\Debug\_03.BiDictionary.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\03. BiDictionary\obj\Debug\_03.BiDictionary.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\03. BiDictionary\obj\Debug\_03.BiDictionary.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\03. BiDictionary\obj\Debug\03. BiDictionary.csprojResolveAssemblyReference.cache

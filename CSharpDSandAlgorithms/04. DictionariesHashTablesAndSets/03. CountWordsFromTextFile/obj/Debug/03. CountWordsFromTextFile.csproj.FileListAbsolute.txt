@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\03. CountWordsFromTextFile\bin\Debug\_03.CountWordsFromTextFile.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\03. CountWordsFromTextFile\bin\Debug\_03.CountWordsFromTextFile.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\03. CountWordsFromTextFile\bin\Debug\_03.CountWordsFromTextFile.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\03. CountWordsFromTextFile\obj\Debug\_03.CountWordsFromTextFile.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\03. CountWordsFromTextFile\obj\Debug\_03.CountWordsFromTextFile.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\03. CountWordsFromTextFile\obj\Debug\03. CountWordsFromTextFile.csprojResolveAssemblyReference.cache

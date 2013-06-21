@@ -1,0 +1,8 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\02. PriceCatalog\bin\Debug\_02.PriceCatalog.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\02. PriceCatalog\bin\Debug\_02.PriceCatalog.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\02. PriceCatalog\bin\Debug\_02.PriceCatalog.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\02. PriceCatalog\bin\Debug\PowerCollections.dll
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\02. PriceCatalog\bin\Debug\PowerCollections.xml
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\02. PriceCatalog\obj\Debug\02. PriceCatalog.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\02. PriceCatalog\obj\Debug\_02.PriceCatalog.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\02. PriceCatalog\obj\Debug\_02.PriceCatalog.pdb

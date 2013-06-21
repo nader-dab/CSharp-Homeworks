@@ -1,0 +1,1 @@
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\bin\Debug\_03.AllPermutation.exe.config

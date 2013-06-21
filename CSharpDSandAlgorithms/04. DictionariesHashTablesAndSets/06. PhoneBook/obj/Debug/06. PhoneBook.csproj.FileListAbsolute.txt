@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\06. PhoneBook\bin\Debug\_06.PhoneBook.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\06. PhoneBook\bin\Debug\_06.PhoneBook.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\06. PhoneBook\bin\Debug\_06.PhoneBook.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\06. PhoneBook\obj\Debug\06. PhoneBook.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\06. PhoneBook\obj\Debug\_06.PhoneBook.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\06. PhoneBook\obj\Debug\_06.PhoneBook.pdb

@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\02. TraverseDirectory\bin\Debug\_02.TraverseDirectory.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\02. TraverseDirectory\bin\Debug\_02.TraverseDirectory.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\02. TraverseDirectory\bin\Debug\_02.TraverseDirectory.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\02. TraverseDirectory\obj\Debug\_02.TraverseDirectory.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\02. TraverseDirectory\obj\Debug\_02.TraverseDirectory.pdb

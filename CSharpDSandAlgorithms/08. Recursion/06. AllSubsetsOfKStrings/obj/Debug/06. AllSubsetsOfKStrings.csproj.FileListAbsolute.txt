@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\06. AllSubsetsOfKStrings\bin\Debug\_06.AllSubsetsOfKStrings.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\06. AllSubsetsOfKStrings\bin\Debug\_06.AllSubsetsOfKStrings.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\06. AllSubsetsOfKStrings\bin\Debug\_06.AllSubsetsOfKStrings.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\06. AllSubsetsOfKStrings\obj\Debug\_06.AllSubsetsOfKStrings.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\06. AllSubsetsOfKStrings\obj\Debug\_06.AllSubsetsOfKStrings.pdb

@@ -1,0 +1,9 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\03. FindWords\bin\Debug\_03.FindWords.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\03. FindWords\bin\Debug\_03.FindWords.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\03. FindWords\bin\Debug\_03.FindWords.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\03. FindWords\obj\Debug\03.1. FindWords.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\03. FindWords\obj\Debug\_03.FindWords.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\03. FindWords\obj\Debug\_03.FindWords.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\03. FindWords\bin\Debug\_03.FindWords.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\03. FindWords\obj\Debug\_03.FindWords.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\05. AdvancedDataStructures\03. FindWords\obj\Debug\_03.FindWords.pdb

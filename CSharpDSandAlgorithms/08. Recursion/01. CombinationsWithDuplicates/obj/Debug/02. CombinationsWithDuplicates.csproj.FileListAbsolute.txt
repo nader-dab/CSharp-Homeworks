@@ -1,0 +1,10 @@
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\01. CombinationsWithDuplicates\bin\Debug\_01.CombinationsWithDuplicates.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\01. CombinationsWithDuplicates\bin\Debug\_01.CombinationsWithDuplicates.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\01. CombinationsWithDuplicates\bin\Debug\_01.CombinationsWithDuplicates.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\01. CombinationsWithDuplicates\obj\Debug\_01.CombinationsWithDuplicates.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\01. CombinationsWithDuplicates\obj\Debug\_01.CombinationsWithDuplicates.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\01. CombinationsWithDuplicates\bin\Debug\_01.CombinationsWithDuplicates.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\01. CombinationsWithDuplicates\obj\Debug\_01.CombinationsWithDuplicates.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\01. CombinationsWithDuplicates\obj\Debug\_01.CombinationsWithDuplicates.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\01. CombinationsWithDuplicates\bin\Debug\_01.CombinationsWithDuplicates.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\01. CombinationsWithDuplicates\bin\Debug\_01.CombinationsWithDuplicates.pdb

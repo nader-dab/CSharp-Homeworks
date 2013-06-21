@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. CourseInformation", "01. CourseInformation\01. CourseInformation.csproj", "{25046AE3-D4D7-4C74-8E94-BF368755523A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. ArticleStorage", "02. ArticleStorage\02. ArticleStorage.csproj", "{85E0326B-6971-4952-9F2B-39911FD18CA0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. BiDictionary", "03. BiDictionary\03. BiDictionary.csproj", "{817BFBC2-9953-427B-896F-68B241A77784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25046AE3-D4D7-4C74-8E94-BF368755523A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25046AE3-D4D7-4C74-8E94-BF368755523A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25046AE3-D4D7-4C74-8E94-BF368755523A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25046AE3-D4D7-4C74-8E94-BF368755523A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{85E0326B-6971-4952-9F2B-39911FD18CA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85E0326B-6971-4952-9F2B-39911FD18CA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85E0326B-6971-4952-9F2B-39911FD18CA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85E0326B-6971-4952-9F2B-39911FD18CA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{817BFBC2-9953-427B-896F-68B241A77784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{817BFBC2-9953-427B-896F-68B241A77784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{817BFBC2-9953-427B-896F-68B241A77784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{817BFBC2-9953-427B-896F-68B241A77784}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

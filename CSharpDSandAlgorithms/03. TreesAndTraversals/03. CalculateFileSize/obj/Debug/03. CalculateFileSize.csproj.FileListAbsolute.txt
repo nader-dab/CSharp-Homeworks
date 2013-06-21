@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\03. CalculateFileSize\bin\Debug\_03.CalculateFileSize.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\03. CalculateFileSize\bin\Debug\_03.CalculateFileSize.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\03. CalculateFileSize\bin\Debug\_03.CalculateFileSize.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\03. CalculateFileSize\obj\Debug\03. CalculateFileSize.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\03. CalculateFileSize\obj\Debug\_03.CalculateFileSize.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\03. TreesAndTraversals\03. CalculateFileSize\obj\Debug\_03.CalculateFileSize.pdb

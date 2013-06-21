@@ -1,0 +1,10 @@
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\bin\Debug\_03.AllPermutation.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\bin\Debug\_03.AllPermutation.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\bin\Debug\_03.AllPermutation.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\obj\Debug\_03.AllPermutation.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\obj\Debug\_03.AllPermutation.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\bin\Debug\_03.AllPermutation.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\obj\Debug\_03.AllPermutation.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\obj\Debug\_03.AllPermutation.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\bin\Debug\_03.AllPermutation.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\03. AllPermutation\bin\Debug\_03.AllPermutation.pdb

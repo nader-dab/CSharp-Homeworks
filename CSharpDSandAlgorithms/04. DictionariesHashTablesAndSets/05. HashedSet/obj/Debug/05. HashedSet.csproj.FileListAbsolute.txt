@@ -1,0 +1,8 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\05. HashedSet\bin\Debug\_05.HashedSet.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\05. HashedSet\obj\Debug\05. HashedSet.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\05. HashedSet\bin\Debug\_05.HashedSet.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\05. HashedSet\bin\Debug\_05.HashedSet.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\05. HashedSet\bin\Debug\_04.HashTable.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\05. HashedSet\bin\Debug\_04.HashTable.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\05. HashedSet\obj\Debug\_05.HashedSet.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\04. DictionariesHashTablesAndSets\05. HashedSet\obj\Debug\_05.HashedSet.pdb

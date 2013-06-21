@@ -1,0 +1,8 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\02. ArticleStorage\obj\Debug\02. ArticleStorage.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\02. ArticleStorage\bin\Debug\_02.ArticleStorage.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\02. ArticleStorage\bin\Debug\_02.ArticleStorage.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\02. ArticleStorage\bin\Debug\_02.ArticleStorage.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\02. ArticleStorage\bin\Debug\PowerCollections.dll
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\02. ArticleStorage\bin\Debug\PowerCollections.xml
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\02. ArticleStorage\obj\Debug\_02.ArticleStorage.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\02. ArticleStorage\obj\Debug\_02.ArticleStorage.pdb

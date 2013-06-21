@@ -1,0 +1,6 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\01. CourseInformation\bin\Debug\_01.CourseInformation.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\01. CourseInformation\bin\Debug\_01.CourseInformation.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\01. CourseInformation\bin\Debug\_01.CourseInformation.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\01. CourseInformation\obj\Debug\01. CourseInformation.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\01. CourseInformation\obj\Debug\_01.CourseInformation.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\06. DataStructuresEfficiency\01. CourseInformation\obj\Debug\_01.CourseInformation.pdb

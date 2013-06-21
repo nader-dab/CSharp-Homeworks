@@ -1,0 +1,11 @@
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\bin\Debug\_11.AllPermutationsWithRepetitions.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\bin\Debug\_11.AllPermutationsWithRepetitions.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\bin\Debug\_11.AllPermutationsWithRepetitions.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\obj\Debug\_11.AllPermutationsWithRepetitions.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\obj\Debug\_11.AllPermutationsWithRepetitions.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\bin\Debug\PowerCollections.dll
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\bin\Debug\PowerCollections.xml
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\obj\Debug\11. AllPermutationsWithRepetitions.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\bin\Debug\_11.AllPermutationsWithRepetitions.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\obj\Debug\_11.AllPermutationsWithRepetitions.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\11. AllPermutationsWithRepetitions\obj\Debug\_11.AllPermutationsWithRepetitions.pdb

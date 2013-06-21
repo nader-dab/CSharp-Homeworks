@@ -1,0 +1,10 @@
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\05. OrderedSubset\bin\Debug\_05.OrderedSubset.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\05. OrderedSubset\bin\Debug\_05.OrderedSubset.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\05. OrderedSubset\bin\Debug\_05.OrderedSubset.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\05. OrderedSubset\obj\Debug\_05.OrderedSubset.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\05. OrderedSubset\obj\Debug\_05.OrderedSubset.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\05. OrderedSubset\bin\Debug\_05.OrderedSubset.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\05. OrderedSubset\obj\Debug\_05.OrderedSubset.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\05. OrderedSubset\obj\Debug\_05.OrderedSubset.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\05. OrderedSubset\bin\Debug\_05.OrderedSubset.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\08. Recursion\05. OrderedSubset\bin\Debug\_05.OrderedSubset.pdb

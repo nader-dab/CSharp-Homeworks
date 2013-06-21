@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. TreeTask", "01. TreeTask\01. TreeTask.csproj", "{6B7D10CF-194E-415A-AA36-B887E2803C6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. TraverseDirectory", "02. TraverseDirectory\02. TraverseDirectory.csproj", "{9E9BEC64-B97A-437B-B16D-C36B4C71ED3C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. CalculateFileSize", "03. CalculateFileSize\03. CalculateFileSize.csproj", "{07211788-CF81-446E-981F-8401A57B5045}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B7D10CF-194E-415A-AA36-B887E2803C6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B7D10CF-194E-415A-AA36-B887E2803C6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B7D10CF-194E-415A-AA36-B887E2803C6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B7D10CF-194E-415A-AA36-B887E2803C6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E9BEC64-B97A-437B-B16D-C36B4C71ED3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E9BEC64-B97A-437B-B16D-C36B4C71ED3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E9BEC64-B97A-437B-B16D-C36B4C71ED3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E9BEC64-B97A-437B-B16D-C36B4C71ED3C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07211788-CF81-446E-981F-8401A57B5045}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07211788-CF81-446E-981F-8401A57B5045}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07211788-CF81-446E-981F-8401A57B5045}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07211788-CF81-446E-981F-8401A57B5045}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
