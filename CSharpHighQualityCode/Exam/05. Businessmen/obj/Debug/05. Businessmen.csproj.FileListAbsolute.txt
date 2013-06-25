@@ -1,0 +1,9 @@
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\05. Businessmen\bin\Debug\_05.Businessmen.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\05. Businessmen\bin\Debug\_05.Businessmen.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\05. Businessmen\bin\Debug\_05.Businessmen.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\05. Businessmen\obj\Debug\05. Businessmen.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\05. Businessmen\obj\Debug\_05.Businessmen.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\05. Businessmen\obj\Debug\_05.Businessmen.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\05. Businessmen\bin\Debug\_05.Businessmen.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\05. Businessmen\obj\Debug\_05.Businessmen.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\05. Businessmen\obj\Debug\_05.Businessmen.pdb

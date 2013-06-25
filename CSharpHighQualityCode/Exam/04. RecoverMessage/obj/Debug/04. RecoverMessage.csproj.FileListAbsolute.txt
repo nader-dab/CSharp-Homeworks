@@ -1,0 +1,11 @@
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\bin\Debug\_04.RecoverMessage.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\bin\Debug\_04.RecoverMessage.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\bin\Debug\_04.RecoverMessage.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\bin\Debug\PowerCollections.dll
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\bin\Debug\PowerCollections.xml
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\obj\Debug\04. RecoverMessage.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\obj\Debug\_04.RecoverMessage.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\obj\Debug\_04.RecoverMessage.pdb
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\bin\Debug\_04.RecoverMessage.exe.config
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\obj\Debug\_04.RecoverMessage.exe
+D:\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\04. RecoverMessage\obj\Debug\_04.RecoverMessage.pdb

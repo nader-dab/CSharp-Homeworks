@@ -1,0 +1,8 @@
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\03. SupermarketQueue\bin\Debug\_03.SupermarketQueue.exe.config
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\03. SupermarketQueue\bin\Debug\_03.SupermarketQueue.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\03. SupermarketQueue\bin\Debug\_03.SupermarketQueue.pdb
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\03. SupermarketQueue\bin\Debug\PowerCollections.dll
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\03. SupermarketQueue\bin\Debug\PowerCollections.xml
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\03. SupermarketQueue\obj\Debug\03. SupermarketQueue.csprojResolveAssemblyReference.cache
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\03. SupermarketQueue\obj\Debug\_03.SupermarketQueue.exe
+C:\SAD\Google Drive\Telerik Academy\CSharpDSandAlgorithms\Homework\Exam\03. SupermarketQueue\obj\Debug\_03.SupermarketQueue.pdb
