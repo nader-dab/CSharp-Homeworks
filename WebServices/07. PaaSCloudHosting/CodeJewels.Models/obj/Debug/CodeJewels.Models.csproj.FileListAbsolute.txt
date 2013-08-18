@@ -1,0 +1,5 @@
+D:\Google Drive\Telerik Academy\WebServices\Homeworks\07. PaaSCloudHosting\CodeJewels.Models\bin\Debug\CodeJewels.Models.dll
+D:\Google Drive\Telerik Academy\WebServices\Homeworks\07. PaaSCloudHosting\CodeJewels.Models\bin\Debug\CodeJewels.Models.pdb
+D:\Google Drive\Telerik Academy\WebServices\Homeworks\07. PaaSCloudHosting\CodeJewels.Models\obj\Debug\CodeJewels.Models.csprojResolveAssemblyReference.cache
+D:\Google Drive\Telerik Academy\WebServices\Homeworks\07. PaaSCloudHosting\CodeJewels.Models\obj\Debug\CodeJewels.Models.dll
+D:\Google Drive\Telerik Academy\WebServices\Homeworks\07. PaaSCloudHosting\CodeJewels.Models\obj\Debug\CodeJewels.Models.pdb
