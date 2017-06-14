@@ -3,17 +3,20 @@ using System.Numerics;
 
 class FibonacciMembers
 {
+    static void PrintAllFibonacci()
+    {
+    int n = 0;
+    while(true)
+        Console.WriteLine(Fib(n++));
+    }
+    static int Fib(int n)
+    {
+        if(n <= 1) return n;
+        else return Fib(n - 1) + Fib(n - 2);
+    }
     static void Main()
     {
-        Console.Title = "Fibonacci Members";
-        BigInteger fibonacciNumber = 0;
-        BigInteger prevNumber = 1;
-        for (int i = 0; i < 100; i++)
-        {
-            Console.WriteLine(fibonacciNumber);
-            fibonacciNumber = fibonacciNumber + prevNumber;
-            prevNumber = fibonacciNumber - prevNumber;
-        }
+        PrintAllFibonacci();
     }
 }
 
